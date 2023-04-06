@@ -1,2 +1,11 @@
+Header
 
-Hi i am Abdukarim
+About me
+
+Languages
+
+Tools
+
+Design
+
+Follow me
