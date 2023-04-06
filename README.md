@@ -1,6 +1,6 @@
 ![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png)
 
-About me
+## Страстный Front-End разработчик из Кыргызстана
 
 Languages
 
