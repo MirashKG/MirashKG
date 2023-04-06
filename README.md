@@ -1,4 +1,4 @@
-![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png) 
+[![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png)]
 
 About me
 
