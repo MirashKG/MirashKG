@@ -1,6 +1,8 @@
 ![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png)
 
 ![](https://komarev.com/ghpvc/?username=MirashKG)
+[![wakatime](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/6731124a-40d5-4735-8f2f-455013387294.svg)](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/6731124a-40d5-4735-8f2f-455013387294)
+
 <h1 align="center">Привет, я <a href="https://mirash-kg-my-website.vercel.app/" target="_blank" style="color:#51E5A1FF">Abdukarim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
@@ -61,6 +63,4 @@ Follow me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirashKG&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
