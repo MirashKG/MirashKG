@@ -1,9 +1,11 @@
+GH_TOKEN: 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
+WAKATIME_API_KEY: waka_2e6bd7fd-277b-45ef-b34e-c745d2ea5b8a
 name: WakaTime
 
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
