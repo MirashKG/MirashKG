@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=2000&color=51E5A1FF&width=590&lines=Страстный+Front-End+разработчик+из+Кыргызстана+🇰🇬)](https://git.io/typing-svg)
 
+<h3 align="center">I like solving complex problems and enjoy learning new things.</h3>
 
 <h2>Languages and Tools</h2>
 
