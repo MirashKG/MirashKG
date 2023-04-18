@@ -1,7 +1,6 @@
 ![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png)
 
 ![](https://komarev.com/ghpvc/?username=MirashKG)
-
 [![wakatime](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1.svg)](https://wakatime.com/@ed3209d9-e4fd-4e09-9c09-7690945196f1)
 
 <h1 align="center">Привет, я <a href="https://mirash-kg-my-website.vercel.app/" target="_blank" style="color:#51E5A1FF">Abdukarim</a> 
