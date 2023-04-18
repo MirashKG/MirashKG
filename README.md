@@ -1,7 +1,7 @@
 ![Header](https://github.com/MirashKG/MirashKG/blob/main/assets/header.png)
 
 ![](https://komarev.com/ghpvc/?username=MirashKG)
-[![wakatime](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/471d0ecd-ea8b-49be-a950-99bcb89f08a3.svg)](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/471d0ecd-ea8b-49be-a950-99bcb89f08a3)
+[![wakatime](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/0fe0341c-6484-46b6-8e67-6e3b27f72d3d.svg)](https://wakatime.com/badge/user/ed3209d9-e4fd-4e09-9c09-7690945196f1/project/0fe0341c-6484-46b6-8e67-6e3b27f72d3d)
 
 <h1 align="center">Привет, я <a href="https://mirash-kg-my-website.vercel.app/" target="_blank" style="color:#51E5A1FF">Abdukarim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
